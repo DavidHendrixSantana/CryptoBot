@@ -1,0 +1,14 @@
+C:\Users\MASD981022\source\repos\Binance\PruebaBinance\obj\Debug\PruebaBinance.csproj.AssemblyReference.cache
+C:\Users\MASD981022\source\repos\Binance\PruebaBinance\obj\Debug\PruebaBinance.Form1.resources
+C:\Users\MASD981022\source\repos\Binance\PruebaBinance\obj\Debug\PruebaBinance.Properties.Resources.resources
+C:\Users\MASD981022\source\repos\Binance\PruebaBinance\obj\Debug\PruebaBinance.csproj.GenerateResource.cache
+C:\Users\MASD981022\source\repos\Binance\PruebaBinance\obj\Debug\PruebaBinance.csproj.CoreCompileInputs.cache
+C:\Users\MASD981022\source\repos\Binance\PruebaBinance\bin\Debug\PruebaBinance.exe.config
+C:\Users\MASD981022\source\repos\Binance\PruebaBinance\bin\Debug\PruebaBinance.exe
+C:\Users\MASD981022\source\repos\Binance\PruebaBinance\bin\Debug\PruebaBinance.pdb
+C:\Users\MASD981022\source\repos\Binance\PruebaBinance\bin\Debug\API_BINANCE.dll
+C:\Users\MASD981022\source\repos\Binance\PruebaBinance\bin\Debug\API_BINANCE.pdb
+C:\Users\MASD981022\source\repos\Binance\PruebaBinance\bin\Debug\API_BINANCE.xml
+C:\Users\MASD981022\source\repos\Binance\PruebaBinance\obj\Debug\PruebaBinance.csproj.CopyComplete
+C:\Users\MASD981022\source\repos\Binance\PruebaBinance\obj\Debug\PruebaBinance.exe
+C:\Users\MASD981022\source\repos\Binance\PruebaBinance\obj\Debug\PruebaBinance.pdb

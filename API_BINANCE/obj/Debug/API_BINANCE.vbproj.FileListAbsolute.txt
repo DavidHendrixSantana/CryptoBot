@@ -1,0 +1,10 @@
+C:\Users\MASD981022\source\repos\Binance\API_BINANCE\obj\Debug\API_BINANCE.vbproj.AssemblyReference.cache
+C:\Users\MASD981022\source\repos\Binance\API_BINANCE\obj\Debug\API_BINANCE.Resources.resources
+C:\Users\MASD981022\source\repos\Binance\API_BINANCE\obj\Debug\API_BINANCE.vbproj.GenerateResource.cache
+C:\Users\MASD981022\source\repos\Binance\API_BINANCE\obj\Debug\API_BINANCE.vbproj.CoreCompileInputs.cache
+C:\Users\MASD981022\source\repos\Binance\API_BINANCE\bin\Debug\API_BINANCE.dll
+C:\Users\MASD981022\source\repos\Binance\API_BINANCE\bin\Debug\API_BINANCE.pdb
+C:\Users\MASD981022\source\repos\Binance\API_BINANCE\bin\Debug\API_BINANCE.xml
+C:\Users\MASD981022\source\repos\Binance\API_BINANCE\obj\Debug\API_BINANCE.dll
+C:\Users\MASD981022\source\repos\Binance\API_BINANCE\obj\Debug\API_BINANCE.xml
+C:\Users\MASD981022\source\repos\Binance\API_BINANCE\obj\Debug\API_BINANCE.pdb
